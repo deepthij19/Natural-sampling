@@ -88,6 +88,11 @@ plt.show()
 ## PROGRAM WAVEFRONT
 ![image](https://github.com/user-attachments/assets/75695e59-a5a1-4bf8-a825-12a38721674a)
 
+# GRAPH:
+
+![image](https://github.com/user-attachments/assets/b1cacaf9-9e3b-4536-82ce-e99a191b08bf)
+
+
 ## RESULT
 
 thuss the simple Natural sampling program is excuted using Python.
